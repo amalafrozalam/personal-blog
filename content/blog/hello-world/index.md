@@ -4,8 +4,6 @@ date: "2021-01-08"
 description: "Hello World"
 ---
 
-# Hello World
-
 I'm not very good with staying consistent with writing or blogging, so I'm hoping that this exercise will help me stay consistent.
 
 I'm Amal Afroz Alam. I'm a biomedical engineer turned software engineer turned to founder turned to product manager.
